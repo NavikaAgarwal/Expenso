@@ -1,5 +1,3 @@
-**Expenso**
-
 ## Introduction
 Keeping track of expenses is essential for personal and business financial management. Expenso simplifies this task by providing a user-friendly interface and robust features to manage your expenses effectively. Whether you're tracking daily expenses, managing business finances, or planning for the future, Expenso has you covered.
 
